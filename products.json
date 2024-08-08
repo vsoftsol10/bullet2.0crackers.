@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "title": "Rockets",
+    "price": 100,
+    "description": "Rockets - 10 pieces",
+    "category": "Rockets",
+    "image": "/assets/rockets.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 10
+    }
+  },
+  {
+    "id": 2,
+    "title": "Double Shots",
+    "price": 50,
+    "description": "Double Shots - 5 pieces",
+    "category": "Rockets",
+    "image": "/assets/doubleshots.jpg",
+    "rating": {
+      "rate": 4.0,
+      "count": 20
+    }
+  },
+  {
+    "id": 3,
+    "title": "Twelve Shots",
+    "price": 300,
+    "description": "Twelve Shots - 1 box",
+    "category": "Rockets",
+    "image": "/assets/twelveshot.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 15
+    }
+  },
+  {
+    "id": 4,
+    "title": "Sparklers",
+    "price": 100,
+    "description": "Sparklers - 1 box",
+    "category": "Sparklers",
+    "image": "/assets/sparklers.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 30
+    }
+  },
+  {
+    "id": 5,
+    "title": "Flower Pot",
+    "price": 100,
+    "description": "Flower Pot - 5 pieces",
+    "category": "Sparklers",
+    "image": "/assets/flowerpot.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 25
+    }
+  },
+  {
+    "id": 6,
+    "title": "Spinner",
+    "price": 100,
+    "description": "Spinner - 1 box",
+    "category": "Sparklers",
+    "image": "/assets/spinner.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 20
+    }
+  },
+  {
+    "id": 7,
+    "title": "Family Pack",
+    "price": 1000,
+    "description": "Family Pack - 1 box",
+    "category": "Gift pack",
+    "image": "/assets/familypack.jpg",
+    "rating": {
+      "rate": 4.9,
+      "count": 5
+    }
+  },
+  {
+    "id": 8,
+    "title": "Gift Pack 1",
+    "price": 500,
+    "description": "Gift Pack 1 - 1 box",
+    "category": "Gift pack",
+    "image": "/assets/giftpack1.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 10
+    }
+  },
+  {
+    "id": 9,
+    "title": "Bijili",
+    "price": 100,
+    "description": "Bijili - 1 packet",
+    "category": "Bombs",
+    "image": "/assets/bijili.jpg",
+    "rating": {
+      "rate": 4.4,
+      "count": 25
+    }
+  },
+  {
+    "id": 10,
+    "title": "Saravedi",
+    "price": 200,
+    "description": "Saravedi - 100 wala",
+    "category": "Bombs",
+    "image": "/assets/saravedi.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 20
+    }
+  },
+  {
+    "id": 11,
+    "title": "Atom Bomb",
+    "price": 100,
+    "description": "Atom Bomb - 5 pieces",
+    "category": "Bombs",
+    "image": "/assets/atombomb.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 15
+    }
+  }
+]
+
