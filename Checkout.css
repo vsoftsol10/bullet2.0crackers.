@@ -1,0 +1,33 @@
+/* src/components/Checkout.css */
+
+.checkout-container {
+  padding: 1rem; /* Reduced padding */
+  max-width: 800px; /* Limit the width */
+  margin: auto; /* Center the container */
+}
+
+.checkout-title {
+  margin-bottom: 1rem; /* Space below the title */
+}
+
+.form-group {
+  margin-bottom: 0.5rem; /* Reduce space between form fields */
+}
+
+.form-control {
+  padding: 0.5rem; /* Reduce padding inside input fields */
+}
+
+.list-group-item {
+  padding: 0.75rem; /* Reduce padding inside list items */
+}
+
+.btn {
+  padding: 0.5rem 1rem; /* Adjust button padding */
+}
+
+@media (max-width: 767px) {
+  .checkout-container {
+    padding: 0.5rem; /* Reduced padding on smaller screens */
+  }
+}

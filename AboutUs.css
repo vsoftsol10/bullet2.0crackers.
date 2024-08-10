@@ -1,0 +1,61 @@
+/* AboutUs.css */
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  position: relative; /* To position fireworks within this container */
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem;
+}
+
+.my-5 {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+/* Firework Animation */
+@keyframes firework {
+  0% {
+    opacity: 1;
+    transform: scale(0.5) translateY(0);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.5) translateY(-50vh);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(0) translateY(-100vh);
+  }
+}
+
+.firework {
+  position: absolute;
+  bottom: 0;
+  width: 8px;
+  height: 8px;
+  background: radial-gradient(circle, #ff0000, #ff00ff);
+  border-radius: 50%;
+  opacity: 0;
+  animation: firework 1.5s ease-out infinite;
+}
+
+.firework:nth-child(2n) {
+  background: radial-gradient(circle, #00ff00, #0000ff);
+  animation-duration: 1.7s;
+}
+
+.firework:nth-child(3n) {
+  background: radial-gradient(circle, #ffff00, #ff8800);
+  animation-duration: 2s;
+}

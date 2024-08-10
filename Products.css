@@ -1,0 +1,160 @@
+/* General Button Styling */
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.buttons .btn {
+  flex: 1;
+  min-width: 100px; /* Ensure buttons have a minimum width */
+  margin: 5px;
+  font-size: 14px; /* Font size for buttons */
+  padding: 10px; /* Padding inside buttons */
+  text-align: center;
+}
+
+/* Ensure buttons are responsive */
+@media (max-width: 768px) {
+  .buttons {
+    justify-content: space-between; /* Space out buttons to fit smaller screens */
+  }
+
+  .buttons .btn {
+    flex: 1 1 48%; /* Ensure buttons take up appropriate space on smaller screens */
+    font-size: 12px; /* Smaller font size for smaller screens */
+    padding: 8px; /* Adjust padding for smaller screens */
+  }
+}
+
+/* General Table Styling */
+.table-bg {
+  background-color: lightgrey;
+  border-collapse: collapse;
+  width: 100%;
+  overflow-x: auto;
+}
+
+/* Table Header and Cell Styling */
+.table-bg th,
+.table-bg td {
+  text-align: center;
+  padding: 10px;
+  white-space: nowrap;
+}
+
+.table-bg th {
+  background-color: #343a40;
+  color: white;
+}
+
+.table-bg td {
+  background-color: white;
+}
+
+.table-bg tr:nth-child(even) td {
+  background-color: #f2f2f2;
+}
+
+/* Ensure Image Resizing in Table */
+.product-img-table {
+  max-width: 60px;
+  height: auto;
+}
+
+/* Style for the content column to ensure it occupies the full width */
+.content-cell {
+  text-align: center;
+  vertical-align: middle;
+  padding: 1rem;
+}
+
+/* Grand Total and Our Products Heading Styles */
+.total-heading {
+  text-align: center;
+  margin: 20px 0;
+}
+
+/* Button Styling */
+.quantity-controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.quantity-btn {
+  background-color: #007bff;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.quantity-btn:hover {
+  background-color: #0056b3;
+}
+
+.quantity-input {
+  text-align: center;
+  font-size: 16px;
+  margin: 0 5px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+/* Responsive table styling */
+@media (max-width: 768px) {
+  .table-bg {
+    width: 100%;
+  }
+
+  .table-bg th,
+  .table-bg td {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .table-bg tr {
+    margin-bottom: 10px;
+    display: block;
+  }
+
+  .table-bg td {
+    text-align: right;
+    padding-left: 50%;
+    position: relative;
+  }
+
+  .table-bg td::before {
+    content: attr(data-label);
+    position: absolute;
+    left: 0;
+    width: 50%;
+    padding-left: 10px;
+    font-weight: bold;
+    text-align: left;
+    background-color: #f2f2f2;
+    border-right: 1px solid #ddd;
+  }
+}
+
+.rocket-gif {
+  position: fixed;
+  width: 60px;
+  height: auto;
+  animation: move 10s linear infinite;
+}
+
+@keyframes move {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(5px, 5px); /* Adjust these values to control the movement */
+  }
+}

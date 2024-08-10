@@ -1,0 +1,114 @@
+/* src/components/NavBar.css */
+
+/* Marquee styles */
+.marquee {
+  background: navy;
+  font-size: 1.2rem;
+  border-radius: 7px;
+  font-weight: 800;
+  color: white;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.marquee-icon {
+  color: yellow;
+  font-size: 1.5rem;
+}
+/* Marquee image styles */
+.marquee-img {
+  width: 30px; /* Adjust the width as needed */
+  height: auto;
+  margin: 0 10px; /* Space between images and text */
+  display: inline-block; /* Ensure images are inline with text */
+}
+
+/* Navbar styles */
+.navbar {
+  background-color: #ffab47; /* Updated background color */
+  padding: 0.5rem 1rem; /* Adjust padding for spacing */
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center; /* Center vertically */
+}
+
+.logo {
+  height: 60px; /* Adjust logo height as needed */
+  margin-right: 10px; /* Space between logo and text */
+}
+
+/* Brand text styles */
+.brand-text {
+  font-size: 1.4rem; /* Adjusted font size for better fit */
+  font-weight: bold;
+  color: black; /* Set text color to black for better contrast */
+  font-family: 'Roboto', sans-serif; /* Stylish font */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Optional: adds a shadow for better readability */
+  letter-spacing: 1px; /* Adds spacing between letters for a more stylish look */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .brand-text {
+    font-size: 1.2rem; /* Smaller font size for mobile devices */
+  }
+
+  .navbar-nav {
+    flex-direction: column; /* Stack nav items vertically on mobile */
+  }
+
+  .nav-item {
+    margin: 0.5rem 0; /* Add vertical spacing between nav items */
+  }
+
+  .navbar-toggler {
+    margin-left: 0; /* Reset margin for toggler on mobile */
+  }
+}
+
+@media (max-width: 576px) {
+  .brand-text {
+    font-size: 1rem; /* Further reduce font size on very small screens */
+  }
+
+  .logo {
+    height: 50px; /* Adjust logo height for smaller screens */
+  }
+}
+
+.navbar-nav {
+  display: flex;
+  align-items: center; /* Center vertically */
+  margin-left: auto; /* Push nav items to the right */
+}
+
+.nav-item {
+  margin-right: 15px; /* Space between nav items */
+}
+
+.navbar-nav .nav-link {
+  font-size: 1.1rem; /* Adjust as needed */
+  color: black; /* Text color to ensure readability */
+  border-radius: 4px; /* Rounded corners for a softer look */
+  padding: 8px 12px; /* Padding to make the clickable area larger */
+  transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  background-color: #e89434; /* Slightly darker shade for hover and active states */
+  color: white; /* Ensures text is readable on hover/active */
+}
+
+.navbar-toggler {
+  margin-left: auto; /* Push the toggle button to the right */
+}
+
+.buttons {
+  display: flex;
+  align-items: center; /* Center vertically */
+}

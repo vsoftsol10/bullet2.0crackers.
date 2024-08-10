@@ -1,0 +1,286 @@
+/* General Styling */
+body {
+  background-color: #ffc17d; /* Set the background color for the entire page */
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+.b-example-divider {
+  height: 3rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.feature-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 4rem;
+  height: 4rem;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  color: #fff;
+  border-radius: .75rem;
+}
+
+/* Icon Grid Section */
+.icon-link {
+  display: inline-flex;
+  align-items: center;
+}
+
+.icon-link > .bi {
+  margin-top: .125rem;
+  margin-left: .125rem;
+  transition: transform .25s ease-in-out;
+  fill: currentColor;
+}
+
+.icon-link:hover > .bi {
+  transform: translate(.25rem);
+}
+
+.icon-square {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 3rem;
+  height: 3rem;
+  font-size: 1.5rem;
+  border-radius: .75rem;
+}
+
+.text-shadow-1 { text-shadow: 0 .125rem .25rem rgba(0, 0, 0, .25); }
+.text-shadow-2 { text-shadow: 0 .25rem .5rem rgba(0, 0, 0, .25); }
+.text-shadow-3 { text-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, .25); }
+
+/* Custom Cards Section */
+.custom-card-container {
+  margin-top: -6rem; /* Reduced this value to reduce space between features and custom cards */
+}
+
+.card {
+  background-color: #ff6f00; /* Changed background color to orange */
+  height: 350px; /* Adjusted height for cards */
+  overflow: hidden; /* Ensure images are cropped */
+}
+
+.card-img-top {
+  object-fit: cover; /* Crop and fit image within card */
+  height: 200px; /* Fixed height for images */
+}
+
+/* Specific Card Background Colors */
+.card-primary {
+  background-color: #007bff;
+}
+
+.card-success {
+  background-color: #28a745;
+}
+.card-container {
+  padding-bottom: 1.5rem; /* Use padding to create space */
+}
+
+/* Slide-in Animation for Cards */
+@keyframes slideInFromLeft {
+  0% {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.card-container {
+  opacity: 0;
+  transform: translateX(-100%);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.card-container.in-view {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+/* Firecracker Burst Animation */
+@keyframes firecrackerBurst {
+  0% {
+    transform: scale(0);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.5);
+    opacity: 0.7;
+  }
+  100% {
+    transform: scale(0);
+    opacity: 0;
+  }
+}
+
+.firecracker-container {
+  position: relative;
+  width: 100%;
+  height: 100vh; /* Full viewport height */
+  overflow: hidden; /* Hide overflow to keep animations within bounds */
+}
+
+/* Ensure the firecracker-burst class does not need background-image for a React component */
+.firecracker-burst {
+  position: absolute;
+  width: 100px; /* Adjust size as needed */
+  height: 100px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  transform: translate(-50%, -50%);
+  animation: firecrackerBurst 1.5s ease-out infinite;
+}
+
+/* Additional styling for multiple bursts */
+.firecracker-burst:nth-child(1) {
+  top: 20%;
+  left: 25%;
+}
+
+.firecracker-burst:nth-child(2) {
+  top: 50%;
+  left: 50%;
+}
+
+.firecracker-burst:nth-child(3) {
+  top: 70%;
+  left: 75%;
+}
+
+/* General styles for GIFs */
+.gif-overlay {
+  position: absolute;
+  width: 100px; /* Adjust width as needed */
+  height: 100px; /* Adjust height as needed */
+  top: 0;
+  left: 0;
+  pointer-events: none; /* Allow clicks to pass through */
+  z-index: 0; /* Default z-index for behind content */
+  opacity: 0.3; /* Adjust opacity to blend with background */
+  object-fit: contain; /* Ensure GIFs do not stretch */
+}
+
+/* Specific positions for each GIF */
+.gif-overlay-1 {
+  top: 10px; /* Adjust top positioning as needed */
+  left: 10px; /* Adjust left positioning as needed */
+}
+
+.gif-overlay-2 {
+  top: 50%; /* Center vertically */
+  left: 50%; /* Center horizontally */
+  transform: translate(-50%, -50%); /* Center the GIF exactly */
+}
+
+.gif-overlay-3 {
+  bottom: 10px; /* Adjust bottom positioning as needed */
+  right: 10px; /* Adjust right positioning as needed */
+}
+
+/* Ensure the container is positioned relative */
+#icon-grid, .custom-card-container {
+  position: relative;
+  overflow: hidden; /* Hide overflow from GIFs */
+}
+
+.card-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.card-link:hover .card {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
+
+/* Hover effect for text */
+.card-body h5, .card-body p {
+  color: #fff; /* Default text color */
+  transition: color 0.3s ease; /* Smooth color transition */
+}
+
+.card-body h5:hover, .card-body p:hover {
+  color: #ffeb3b; /* Change text color on hover */
+}
+/* Styling for the pricelist button container */
+.pricelist-button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+/* Styling for the pricelist button */
+.btn-pricelist {
+  font-size: 1.5rem;
+  padding: 10px 20px;
+  background-color: #ff5733; /* Attractive color */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  animation: blink 1s infinite;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Blinking effect */
+@keyframes blink {
+  0%, 50%, 100% {
+    opacity: 1;
+  }
+  25%, 75% {
+    opacity: 0.5;
+  }
+}
+
+/* Media query for responsiveness */
+@media (max-width: 576px) {
+  .pricelist-button-container {
+    margin-top: 10px;
+  }
+
+  .btn-pricelist {
+    font-size: 1.2rem;
+    padding: 8px 16px;
+  }
+}
+.carousel-container {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.carousel-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.fade {
+  opacity: 0;
+}
+
+/* Additional styles for other components as needed */

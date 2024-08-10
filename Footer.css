@@ -1,0 +1,129 @@
+.footer {
+  background-color: #000;
+  color: #fff;
+  padding: 2rem 0;
+  margin-top: 5rem;
+}
+
+.footer a {
+  color: #fff;
+  text-decoration: none; /* Removes underline from all links */
+}
+
+.footer a:hover {
+  text-decoration: underline; /* Optionally add underline on hover */
+}
+
+.footer-item img {
+  width: 100%; /* Adjust width as needed */
+}
+
+.footer .btn-link {
+  color: #fff;
+  text-decoration: none;
+  margin-bottom: 0.5rem;
+}
+
+.footer .btn-link:hover {
+  text-decoration: underline;
+}
+
+.footer .container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer .row {
+  margin-bottom: 2rem;
+}
+
+.footer .social-links .btn {
+  margin: 0 0.25rem;
+}
+
+.footer .social-links .btn:hover {
+  color: #fff;
+}
+
+.footer .subscribe {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer .subscribe input {
+  flex: 1;
+  margin-right: 0.5rem;
+}
+
+.footer .subscribe button {
+  flex-shrink: 0;
+}
+
+.footer .address {
+  margin-top: 1rem;
+}
+
+.footer .address h5 {
+  color: #fff;
+  margin-bottom: 0.5rem;
+}
+
+.footer .address a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer .address a:hover {
+  text-decoration: underline;
+}
+
+.footer .container-fluid {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.social-links .btn {
+  border-color: #aaa;
+  color: #aaa;
+  transition: all 0.3s;
+  margin: 0 5px; /* Adjust the margin as needed */
+}
+
+.social-links .btn:hover {
+  border-color: #fff;
+  color: #fff;
+}
+
+.footer-item .btn-link {
+  color: #aaa;
+  transition: color 0.3s;
+}
+
+.footer-item .btn-link:hover {
+  color: #fff;
+}
+
+.footer-item h4 {
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+.footer-item p,
+.footer-item a {
+  color: #aaa;
+  margin-bottom: 0.5rem;
+  font-size: 14px;
+}
+
+.footer-item .address p,
+.footer-item .address a {
+  color: #aaa;
+  font-size: 14px;
+  margin-bottom: 0.5rem;
+  text-decoration: none;
+}
+
+.footer-item .address a:hover {
+  color: #fff;
+}
