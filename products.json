@@ -5,7 +5,7 @@
     "price": 100,
     "description": "Rockets - 10 pieces",
     "category": "Rockets",
-    "image": "/assets/rockets.jpg",
+    "image": "/assets/Newarrival12.webp",
     "rating": {
       "rate": 4.5,
       "count": 10
@@ -17,7 +17,7 @@
     "price": 50,
     "description": "Double Shots - 5 pieces",
     "category": "Rockets",
-    "image": "/assets/doubleshots.jpg",
+    "image": "/assets/doubleshots.webp",
     "rating": {
       "rate": 4.0,
       "count": 20
@@ -29,7 +29,7 @@
     "price": 300,
     "description": "Twelve Shots - 1 box",
     "category": "Rockets",
-    "image": "/assets/twelveshot.jpg",
+    "image": "/assets/twelveshot.webp",
     "rating": {
       "rate": 4.8,
       "count": 15
@@ -41,7 +41,7 @@
     "price": 100,
     "description": "Sparklers - 1 box",
     "category": "Sparklers",
-    "image": "/assets/sparklers.jpg",
+    "image": "/assets/Newarrival23.webp",
     "rating": {
       "rate": 4.6,
       "count": 30
@@ -53,7 +53,7 @@
     "price": 100,
     "description": "Flower Pot - 5 pieces",
     "category": "Sparklers",
-    "image": "/assets/flowerpot.jpg",
+    "image": "/assets/flowerpot.webp",
     "rating": {
       "rate": 4.7,
       "count": 25
@@ -65,7 +65,7 @@
     "price": 100,
     "description": "Spinner - 1 box",
     "category": "Sparklers",
-    "image": "/assets/spinner.jpg",
+    "image": "/assets/Newarrival21.webp",
     "rating": {
       "rate": 4.5,
       "count": 20
@@ -77,7 +77,7 @@
     "price": 1000,
     "description": "Family Pack - 1 box",
     "category": "Gift pack",
-    "image": "/assets/familypack.jpg",
+    "image": "/assets/Newarrival16.webp",
     "rating": {
       "rate": 4.9,
       "count": 5
@@ -89,7 +89,7 @@
     "price": 500,
     "description": "Gift Pack 1 - 1 box",
     "category": "Gift pack",
-    "image": "/assets/giftpack1.jpg",
+    "image": "/assets/Newarrival18.webp",
     "rating": {
       "rate": 4.6,
       "count": 10
@@ -101,7 +101,7 @@
     "price": 100,
     "description": "Bijili - 1 packet",
     "category": "Bombs",
-    "image": "/assets/bijili.jpg",
+    "image": "/assets/bijili.webp",
     "rating": {
       "rate": 4.4,
       "count": 25
@@ -113,7 +113,7 @@
     "price": 200,
     "description": "Saravedi - 100 wala",
     "category": "Bombs",
-    "image": "/assets/saravedi.jpg",
+    "image": "/assets/Newarrival17.webp",
     "rating": {
       "rate": 4.5,
       "count": 20
@@ -125,7 +125,7 @@
     "price": 100,
     "description": "Atom Bomb - 5 pieces",
     "category": "Bombs",
-    "image": "/assets/atombomb.jpg",
+    "image": "/assets/Newarrival20.webp",
     "rating": {
       "rate": 4.6,
       "count": 15
