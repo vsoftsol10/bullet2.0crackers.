@@ -1,0 +1,76 @@
+/* Admin Router Styles */
+
+.admin-container {
+  display: flex;
+}
+
+.admin-content {
+  padding: 20px;
+  flex: 1;
+  min-height: 100vh; /* Ensure the content area is at least as tall as the viewport */
+}
+
+.with-sidebar {
+  margin-left: 200px; /* Adjust if necessary */
+}
+
+.no-sidebar {
+  margin-left: 0;
+}
+
+.admin-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.admin-heading {
+  font-size: 2rem;
+  color: #333;
+  margin: 0;
+}
+
+.admin-user-info {
+  margin-top: 10px;
+}
+
+.username {
+  font-weight: bold; /* Make the text bold */
+  margin-right: 15px;
+}
+
+.logout-button {
+  padding: 8px 16px;
+  border: none;
+  background-color: #007bff; /* Blue background color */
+  color: white; /* White text color */
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.logout-button:hover {
+  background-color: #0056b3; /* Darker blue for hover */
+}
+
+/* SideMenu Styles */
+.side-menu {
+  width: 200px; /* Width of the sidebar */
+  background-color: #f4f4f4; /* Light grey background color */
+  height: 100vh; /* Full height of the viewport */
+  position: fixed; /* Fixed position to stay in place */
+  top: 0; /* Align to the top */
+  left: 0; /* Align to the left */
+}
+
+.side-menu__vertical {
+  height: 100%;
+  border-right: 1px solid #ddd; /* Border to the right */
+}
+
+/* Ensure the footer does not overlap content */
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}

@@ -1,0 +1,32 @@
+/* Ensure the SideMenu is fixed and covers the full height of the viewport */
+.side-menu {
+  position: fixed; /* Fixed position to stay on the side */
+  top: 0;
+  left: 0;
+  height: 100vh; /* Full viewport height */
+  width: 200px; /* Adjust width as needed */
+  background-color: #f0f2f5; /* Background color to match your design */
+  border-right: 1px solid #d9d9d9; /* Border to separate the menu */
+  display: flex;
+  flex-direction: column;
+}
+
+/* Style the menu */
+.side-menu__vertical {
+  flex: 1;
+}
+
+/* Optional: Style the menu items */
+.side-menu .ant-menu-item {
+  padding: 16px;
+  font-size: 16px;
+}
+
+.side-menu .ant-menu-item-selected {
+  background-color: #1890ff; /* Highlight color for the selected menu item */
+  color: #fff; /* Text color for the selected item */
+}
+
+.side-menu .ant-menu-item:hover {
+  background-color: #e6f7ff; /* Hover effect */
+}
