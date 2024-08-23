@@ -1534,6 +1534,1332 @@
       "count": 30
     }
   }
+ {
+    "id": 127,
+    "title": "Gold Feather",
+    "price": 90.00,
+    "description": "Gold Feather",
+    "category": "Ground Fountain",
+    "image": "/assets/sword_2pcs.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 30
+    }
+  }
+
+  {
+    "id": 128,
+    "title": "Peacock Feather",
+    "price": 100.00,
+    "description": "Peacock Feather cracker.",
+    "category": "Fountains",
+    "image": "/assets/peacock_feather.webp",
+    "rating": {
+      "rate": 4.2,
+      "count": 15
+    }
+  },
+  {
+    "id": 129,
+    "title": "Small Peacock",
+    "price": 150.00,
+    "description": "Small Peacock cracker.",
+    "category": "Fountains",
+    "image": "/assets/small_peacock.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 18
+    }
+  },
+  {
+    "id": 130,
+    "title": "Triangle Peacock 3 in 1",
+    "price": 200.00,
+    "description": "Triangle Peacock 3 in 1 cracker.",
+    "category": "Fountains",
+    "image": "/assets/triangle_peacock_3in1.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 20
+    }
+  },
+  {
+    "id": 131,
+    "title": "Five Falls",
+    "price": 200.00,
+    "description": "Five Falls cracker.",
+    "category": "Fountains",
+    "image": "/assets/five_falls.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 22
+    }
+  },
+  {
+    "id": 132,
+    "title": "6\" Double Colour Fountain",
+    "price": 200.00,
+    "description": "6\" Double Colour Fountain cracker.",
+    "category": "Fountains",
+    "image": "/assets/double_colour_fountain_6in.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 25
+    }
+  },
+  {
+    "id": 133,
+    "title": "Gems (5 Pcs)",
+    "price": 200.00,
+    "description": "Pack of 5 Gems crackers.",
+    "category": "Fountains",
+    "image": "/assets/gems_5pcs.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 30
+    }
+  },
+  {
+    "id": 134,
+    "title": "Water Queen",
+    "price": 250.00,
+    "description": "Water Queen cracker.",
+    "category": "Fountains",
+    "image": "/assets/water_queen.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 35
+    }
+  },
+  {
+    "id": 135,
+    "title": "Tri Colour Pots",
+    "price": 300.00,
+    "description": "Tri Colour Pots cracker.",
+    "category": "Fountains",
+    "image": "/assets/tri_colour_pots.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 40
+    }
+  },
+  {
+    "id": 136,
+    "title": "8\" Cocktiel Crackling",
+    "price": 400.00,
+    "description": "8\" Cocktiel Crackling cracker.",
+    "category": "Fountains",
+    "image": "/assets/cocktiel_crackling_8in.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 45
+    }
+  },
+  {
+    "id": 137,
+    "title": "8\" Triple Colour Fountain",
+    "price": 400.00,
+    "description": "8\" Triple Colour Fountain cracker.",
+    "category": "Fountains",
+    "image": "/assets/triple_colour_fountain_8in.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 50
+    }
+  },
+  {
+    "id": 138,
+    "title": "Triangle Peacock 5 in 1",
+    "price": 450.00,
+    "description": "Triangle Peacock 5 in 1 cracker.",
+    "category": "Fountains",
+    "image": "/assets/triangle_peacock_5in1.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 55
+    }
+  },
+  {
+    "id": 139,
+    "title": "Floara (Sun Shine)",
+    "price": 450.00,
+    "description": "Floara (Sun Shine) cracker.",
+    "category": "Fountains",
+    "image": "/assets/floara_sunshine.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 60
+    }
+  },
+  {
+    "id": 140,
+    "title": "Bada Peacock",
+    "price": 500.00,
+    "description": "Bada Peacock cracker.",
+    "category": "Fountains",
+    "image": "/assets/bada_peacock.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 65
+    }
+  },
+  {
+    "id": 141,
+    "title": "Double Colour Peacock",
+    "price": 550.00,
+    "description": "Double Colour Peacock cracker.",
+    "category": "Fountains",
+    "image": "/assets/double_colour_peacock.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 70
+    }
+  }
+
+  {
+    "id": 142,
+    "title": "12 Shots Crackling",
+    "price": 130.00,
+    "description": "12 Shots Crackling firecracker.",
+    "category": "Crackling",
+    "image": "/assets/12_shots_crackling.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 20
+    }
+  },
+  {
+    "id": 143,
+    "title": "25 Shots Colour Crackling",
+    "price": 230.00,
+    "description": "25 Shots Colour Crackling firecracker.",
+    "category": "Crackling",
+    "image": "/assets/25_shots_colour_crackling.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 25
+    }
+  },
+  {
+    "id": 144,
+    "title": "30 Shots Multi Colour",
+    "price": 400.00,
+    "description": "30 Shots Multi Colour firecracker.",
+    "category": "Crackling",
+    "image": "/assets/30_shots_multi_colour.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 30
+    }
+  },
+  {
+    "id": 145,
+    "title": "60 Shots Multi Colour",
+    "price": 800.00,
+    "description": "60 Shots Multi Colour firecracker.",
+    "category": "Crackling",
+    "image": "/assets/60_shots_multi_colour.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 35
+    }
+  },
+  {
+    "id": 146,
+    "title": "120 Shots Multi Colour",
+    "price": 1500.00,
+    "description": "120 Shots Multi Colour firecracker.",
+    "category": "Crackling",
+    "image": "/assets/120_shots_multi_colour.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 40
+    }
+  },
+  {
+    "id": 147,
+    "title": "240 Shots Multi Colour",
+    "price": 3000.00,
+    "description": "240 Shots Multi Colour firecracker.",
+    "category": "Crackling",
+    "image": "/assets/240_shots_multi_colour.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 45
+    }
+  },
+  {
+    "id": 148,
+    "title": "IPL 10X10",
+    "price": 3200.00,
+    "description": "IPL 10X10 firecracker.",
+    "category": "Crackling",
+    "image": "/assets/ipl_10x10.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 50
+    }
+  }
+
+  {
+    "id": 149,
+    "title": "11/4\" Chotta Fancy",
+    "price": 40.00,
+    "description": "11/4\" Chotta Fancy firecracker.",
+    "category": "Fancy",
+    "image": "/assets/11_4_chotta_fancy.webp",
+    "rating": {
+      "rate": 4.2,
+      "count": 15
+    }
+  },
+  {
+    "id": 150,
+    "title": "2\" Fancy",
+    "price": 120.00,
+    "description": "2\" Fancy firecracker.",
+    "category": "Fancy",
+    "image": "/assets/2_fancy.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 20
+    }
+  },
+  {
+    "id": 151,
+    "title": "3\" Pcs Fancy",
+    "price": 270.00,
+    "description": "3\" Pcs Fancy firecracker.",
+    "category": "Fancy",
+    "image": "/assets/3_pcs_fancy.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 25
+    }
+  },
+  {
+    "id": 152,
+    "title": "31/2\" Fancy",
+    "price": 300.00,
+    "description": "31/2\" Fancy firecracker.",
+    "category": "Fancy",
+    "image": "/assets/31_2_fancy.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 30
+    }
+  },
+  {
+    "id": 153,
+    "title": "31/2\" Double Fall Fancy",
+    "price": 350.00,
+    "description": "31/2\" Double Fall Fancy firecracker.",
+    "category": "Fancy",
+    "image": "/assets/31_2_double_fall_fancy.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 35
+    }
+  },
+  {
+    "id": 154,
+    "title": "4\" Pcs Fancy (2Pcs)",
+    "price": 750.00,
+    "description": "4\" Pcs Fancy firecracker (2 pieces).",
+    "category": "Fancy",
+    "image": "/assets/4_pcs_fancy_2pcs.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 40
+    }
+  },
+  {
+    "id": 155,
+    "title": "Jack Pot Small (Nayagara)",
+    "price": 750.00,
+    "description": "Jack Pot Small (Nayagara) firecracker.",
+    "category": "Fancy",
+    "image": "/assets/jack_pot_small_nayagara.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 45
+    }
+  },
+  {
+    "id": 156,
+    "title": "Block Buster (Red Colour)",
+    "price": 750.00,
+    "description": "Block Buster (Red Colour) firecracker.",
+    "category": "Fancy",
+    "image": "/assets/block_buster_red_colour.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 50
+    }
+  },
+  {
+    "id": 157,
+    "title": "Sun Feast (Nayagara) Big",
+    "price": 750.00,
+    "description": "Sun Feast (Nayagara) Big firecracker.",
+    "category": "Fancy",
+    "image": "/assets/sun_feast_nayagara_big.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 55
+    }
+  }
+
+  {
+    "id": 158,
+    "title": "Minions (2 in 1 Special Fountain)",
+    "price": 606.00,
+    "description": "Minions (2 in 1 Special Fountain) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/minions_2_in_1_special_fountain.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 20
+    }
+  },
+  {
+    "id": 159,
+    "title": "Odd Buds (5 in 1 Special Fountain)",
+    "price": 600.00,
+    "description": "Odd Buds (5 in 1 Special Fountain) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/odd_buds_5_in_1_special_fountain.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 25
+    }
+  },
+  {
+    "id": 160,
+    "title": "Rangoon",
+    "price": 300.00,
+    "description": "Rangoon firecracker.",
+    "category": "Fountain",
+    "image": "/assets/rangoon.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 30
+    }
+  },
+  {
+    "id": 161,
+    "title": "Sakura Boom (2 in 1 Fountain)",
+    "price": 320.00,
+    "description": "Sakura Boom (2 in 1 Fountain) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/sakura_boom_2_in_1_fountain.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 35
+    }
+  },
+  {
+    "id": 162,
+    "title": "Hatricks (Multicolour Fountain)",
+    "price": 320.00,
+    "description": "Hatricks (Multicolour Fountain) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/hatricks_multicolour_fountain.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 40
+    }
+  },
+  {
+    "id": 163,
+    "title": "Vanila (2Pcs)",
+    "price": 150.00,
+    "description": "Vanila (2Pcs) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/vanila_2pcs.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 45
+    }
+  },
+  {
+    "id": 164,
+    "title": "Choco (2Pcs)",
+    "price": 150.00,
+    "description": "Choco (2Pcs) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/choco_2pcs.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 50
+    }
+  },
+  {
+    "id": 165,
+    "title": "Pista (2Pcs)",
+    "price": 150.00,
+    "description": "Pista (2Pcs) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/pista_2pcs.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 55
+    }
+  },
+  {
+    "id": 166,
+    "title": "Milano",
+    "price": 250.00,
+    "description": "Milano firecracker.",
+    "category": "Fountain",
+    "image": "/assets/milano.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 60
+    }
+  },
+  {
+    "id": 167,
+    "title": "Jungle",
+    "price": 250.00,
+    "description": "Jungle firecracker.",
+    "category": "Fountain",
+    "image": "/assets/jungle.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 65
+    }
+  },
+  {
+    "id": 168,
+    "title": "Popcorns",
+    "price": 280.00,
+    "description": "Popcorns firecracker.",
+    "category": "Fountain",
+    "image": "/assets/popcorns.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 70
+    }
+  },
+  {
+    "id": 169,
+    "title": "Raavan",
+    "price": 330.00,
+    "description": "Raavan firecracker.",
+    "category": "Fountain",
+    "image": "/assets/raavan.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 75
+    }
+  },
+  {
+    "id": 170,
+    "title": "Strawberry",
+    "price": 200.00,
+    "description": "Strawberry firecracker.",
+    "category": "Fountain",
+    "image": "/assets/strawberry.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 80
+    }
+  },
+  {
+    "id": 171,
+    "title": "Butterscotch",
+    "price": 200.00,
+    "description": "Butterscotch firecracker.",
+    "category": "Fountain",
+    "image": "/assets/butterscotch.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 85
+    }
+  },
+  {
+    "id": 172,
+    "title": "Aliens",
+    "price": 320.00,
+    "description": "Aliens firecracker.",
+    "category": "Fountain",
+    "image": "/assets/aliens.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 90
+    }
+  },
+  {
+    "id": 173,
+    "title": "Laughing Monkey (Red Glittering Fountain)",
+    "price": 320.00,
+    "description": "Laughing Monkey (Red Glittering Fountain) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/laughing_monkey_red_glittering_fountain.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 95
+    }
+  },
+  {
+    "id": 174,
+    "title": "Fun Man",
+    "price": 320.00,
+    "description": "Fun Man firecracker.",
+    "category": "Fountain",
+    "image": "/assets/fun_man.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 100
+    }
+  },
+  {
+    "id": 175,
+    "title": "Oscar (3 Steps Crackling Multicolour Toy Fountain)",
+    "price": 500.00,
+    "description": "Oscar (3 Steps Crackling Multicolour Toy Fountain) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/oscar_3_steps_crackling_multicolour_toy_fountain.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 105
+    }
+  },
+  {
+    "id": 176,
+    "title": "Cherry (Red)",
+    "price": 520.00,
+    "description": "Cherry (Red) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/cherry_red.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 110
+    }
+  },
+  {
+    "id": 177,
+    "title": "Jackpot (Nayagara Small)",
+    "price": 520.00,
+    "description": "Jackpot (Nayagara Small) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/jackpot_nayagara_small.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 115
+    }
+  },
+  {
+    "id": 178,
+    "title": "Block Buster (Red Colour)",
+    "price": 750.00,
+    "description": "Block Buster (Red Colour) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/block_buster_red_colour.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 179,
+    "title": "Sun Feast (Nayagara Big)",
+    "price": 750.00,
+    "description": "Sun Feast (Nayagara Big) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/sun_feast_nayagara_big.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 125
+    }
+  },
+  {
+    "id": 180,
+    "title": "Crazy Wheels (9 Shot 11/4 Shell)",
+    "price": 700.00,
+    "description": "Crazy Wheels (9 Shot 11/4 Shell) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/crazy_wheels_9_shot_11_4_shell.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 130
+    }
+  },
+  {
+    "id": 181,
+    "title": "Candy Crush (9 Shot 11/4 Shell Crackling Chakkars)",
+    "price": 750.00,
+    "description": "Candy Crush (9 Shot 11/4 Shell Crackling Chakkars) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/candy_crush_9_shot_11_4_shell_crackling_chakkars.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 135
+    }
+  },
+  {
+    "id": 182,
+    "title": "Pearl Drops (5Pcs)",
+    "price": 350.00,
+    "description": "Pearl Drops (5Pcs) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/pearl_drops_5pcs.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 140
+    }
+  },
+  {
+    "id": 183,
+    "title": "Titoo",
+    "price": 120.00,
+    "description": "Titoo firecracker.",
+    "category": "Fountain",
+    "image": "/assets/titoo.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 145
+    }
+  },
+  {
+    "id": 184,
+    "title": "Euro Stars",
+    "price": 200.00,
+    "description": "Euro Stars firecracker.",
+    "category": "Fountain",
+    "image": "/assets/euro_stars.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 150
+    }
+  },
+  {
+    "id": 185,
+    "title": "Miami Red (2Pcs)",
+    "price": 180.00,
+    "description": "Miami Red (2Pcs) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/miami_red_2pcs.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 155
+    }
+  },
+  {
+    "id": 186,
+    "title": "Magic Buzz (Crackling Wheel)",
+    "price": 300.00,
+    "description": "Magic Buzz (Crackling Wheel) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/magic_buzz_crackling_wheel.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 160
+    }
+  },
+  {
+    "id": 187,
+    "title": "Tuitty - Fruity (Flower Wheel)",
+    "price": 370.00,
+    "description": "Tuitty - Fruity (Flower Wheel) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/tuitty_fruity_flower_wheel.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 165
+    }
+  },
+  {
+    "id": 188,
+    "title": "Tropical Mushroom",
+    "price": 230.00,
+    "description": "Tropical Mushroom firecracker.",
+    "category": "Fountain",
+    "image": "/assets/tropical_mushroom.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 170
+    }
+  },
+  {
+    "id": 189,
+    "title": "Kids Carz (Silver Toy Fountain)",
+    "price": 350.00,
+    "description": "Kids Carz (Silver Toy Fountain) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/kids_carz_silver_toy_fountain.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 175
+    }
+  },
+  {
+    "id": 190,
+    "title": "Naragasura (Mega Colour Changing Crackling Fountain)",
+    "price": 340.00,
+    "description": "Naragasura (Mega Colour Changing Crackling Fountain) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/naragasura_mega_colour_changing_crackling_fountain.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 180
+    }
+  },
+  {
+    "id": 191,
+    "title": "Party Apple",
+    "price": 350.00,
+    "description": "Party Apple firecracker.",
+    "category": "Fountain",
+    "image": "/assets/party_apple.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 185
+    }
+  },
+  {
+    "id": 192,
+    "title": "Wonder La (2Pcs)",
+    "price": 150.00,
+    "description": "Wonder La (2Pcs) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/wonder_la_2pcs.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 190
+    }
+  },
+  {
+    "id": 193,
+    "title": "Cupcake (Water Fall Fountain)",
+    "price": 280.00,
+    "description": "Cupcake (Water Fall Fountain) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/cupcake_water_fall_fountain.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 195
+    }
+  }
+
+  {
+    "id": 194,
+    "title": "Minions (2 in 1 Special Fountain)",
+    "price": 606.00,
+    "description": "Minions (2 in 1 Special Fountain) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/minions_2_in_1_special_fountain.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 20
+    }
+  },
+  {
+    "id": 195,
+    "title": "Odd Buds (5 in 1 Special Fountain)",
+    "price": 600.00,
+    "description": "Odd Buds (5 in 1 Special Fountain) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/odd_buds_5_in_1_special_fountain.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 25
+    }
+  },
+  {
+    "id": 196,
+    "title": "Rangoon",
+    "price": 300.00,
+    "description": "Rangoon firecracker.",
+    "category": "Fountain",
+    "image": "/assets/rangoon.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 30
+    }
+  },
+  {
+    "id": 197,
+    "title": "Sakura Boom (2 in 1 Fountain)",
+    "price": 320.00,
+    "description": "Sakura Boom (2 in 1 Fountain) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/sakura_boom_2_in_1_fountain.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 35
+    }
+  },
+  {
+    "id": 198,
+    "title": "Hatricks (Multicolour Fountain)",
+    "price": 320.00,
+    "description": "Hatricks (Multicolour Fountain) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/hatricks_multicolour_fountain.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 40
+    }
+  },
+  {
+    "id": 199,
+    "title": "Vanila (2Pcs)",
+    "price": 150.00,
+    "description": "Vanila (2Pcs) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/vanila_2pcs.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 45
+    }
+  },
+  {
+    "id": 200,
+    "title": "Choco (2Pcs)",
+    "price": 150.00,
+    "description": "Choco (2Pcs) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/choco_2pcs.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 50
+    }
+  },
+  {
+    "id": 201,
+    "title": "Pista (2Pcs)",
+    "price": 150.00,
+    "description": "Pista (2Pcs) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/pista_2pcs.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 55
+    }
+  },
+  {
+    "id": 202,
+    "title": "Milano",
+    "price": 250.00,
+    "description": "Milano firecracker.",
+    "category": "Fountain",
+    "image": "/assets/milano.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 60
+    }
+  },
+  {
+    "id": 203,
+    "title": "Jungle",
+    "price": 250.00,
+    "description": "Jungle firecracker.",
+    "category": "Fountain",
+    "image": "/assets/jungle.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 65
+    }
+  },
+  {
+    "id": 204,
+    "title": "Popcorns",
+    "price": 280.00,
+    "description": "Popcorns firecracker.",
+    "category": "Fountain",
+    "image": "/assets/popcorns.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 70
+    }
+  },
+  {
+    "id": 205,
+    "title": "Raavan",
+    "price": 330.00,
+    "description": "Raavan firecracker.",
+    "category": "Fountain",
+    "image": "/assets/raavan.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 75
+    }
+  },
+  {
+    "id": 206,
+    "title": "Strawberry",
+    "price": 200.00,
+    "description": "Strawberry firecracker.",
+    "category": "Fountain",
+    "image": "/assets/strawberry.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 80
+    }
+  },
+  {
+    "id": 207,
+    "title": "Butterscotch",
+    "price": 200.00,
+    "description": "Butterscotch firecracker.",
+    "category": "Fountain",
+    "image": "/assets/butterscotch.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 85
+    }
+  },
+  {
+    "id": 208,
+    "title": "Aliens",
+    "price": 320.00,
+    "description": "Aliens firecracker.",
+    "category": "Fountain",
+    "image": "/assets/aliens.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 90
+    }
+  },
+  {
+    "id": 209,
+    "title": "Laughing Monkey (Red Glittering Fountain)",
+    "price": 320.00,
+    "description": "Laughing Monkey (Red Glittering Fountain) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/laughing_monkey_red_glittering_fountain.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 95
+    }
+  },
+  {
+    "id": 210,
+    "title": "Fun Man",
+    "price": 320.00,
+    "description": "Fun Man firecracker.",
+    "category": "Fountain",
+    "image": "/assets/fun_man.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 100
+    }
+  },
+  {
+    "id": 211,
+    "title": "Oscar (3 Steps Crackling Multicolour Toy Fountain)",
+    "price": 500.00,
+    "description": "Oscar (3 Steps Crackling Multicolour Toy Fountain) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/oscar_3_steps_crackling_multicolour_toy_fountain.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 105
+    }
+  },
+  {
+    "id": 212,
+    "title": "Cherry (Red)",
+    "price": 520.00,
+    "description": "Cherry (Red) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/cherry_red.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 110
+    }
+  },
+  {
+    "id": 213,
+    "title": "Jackpot (Nayagara Small)",
+    "price": 520.00,
+    "description": "Jackpot (Nayagara Small) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/jackpot_nayagara_small.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 115
+    }
+  },
+  {
+    "id": 214,
+    "title": "Block Buster (Red Colour)",
+    "price": 750.00,
+    "description": "Block Buster (Red Colour) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/block_buster_red_colour.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 215,
+    "title": "Sun Feast (Nayagara Big)",
+    "price": 750.00,
+    "description": "Sun Feast (Nayagara Big) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/sun_feast_nayagara_big.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 125
+    }
+  },
+  {
+    "id": 216,
+    "title": "Crazy Wheels (9 Shot 11/4 Shell)",
+    "price": 700.00,
+    "description": "Crazy Wheels (9 Shot 11/4 Shell) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/crazy_wheels_9_shot_11_4_shell.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 130
+    }
+  },
+  {
+    "id": 217,
+    "title": "Candy Crush (9 Shot 11/4 Shell Crackling Chakkars)",
+    "price": 750.00,
+    "description": "Candy Crush (9 Shot 11/4 Shell Crackling Chakkars) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/candy_crush_9_shot_11_4_shell_crackling_chakkars.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 135
+    }
+  },
+  {
+    "id": 218,
+    "title": "Pearl Drops (5Pcs)",
+    "price": 350.00,
+    "description": "Pearl Drops (5Pcs) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/pearl_drops_5pcs.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 140
+    }
+  },
+  {
+    "id": 219,
+    "title": "Titoo",
+    "price": 120.00,
+    "description": "Titoo firecracker.",
+    "category": "Fountain",
+    "image": "/assets/titoo.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 145
+    }
+  },
+  {
+    "id": 220,
+    "title": "Euro Stars",
+    "price": 200.00,
+    "description": "Euro Stars firecracker.",
+    "category": "Fountain",
+    "image": "/assets/euro_stars.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 150
+    }
+  },
+  {
+    "id": 221,
+    "title": "Miami Red (2Pcs)",
+    "price": 180.00,
+    "description": "Miami Red (2Pcs) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/miami_red_2pcs.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 155
+    }
+  },
+  {
+    "id": 222,
+    "title": "Magic Buzz (Crackling Wheel)",
+    "price": 300.00,
+    "description": "Magic Buzz (Crackling Wheel) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/magic_buzz_crackling_wheel.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 160
+    }
+  },
+  {
+    "id": 223,
+    "title": "Tuitty - Fruity (Flower Wheel)",
+    "price": 370.00,
+    "description": "Tuitty - Fruity (Flower Wheel) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/tuitty_fruity_flower_wheel.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 165
+    }
+  },
+  {
+    "id": 224,
+    "title": "Tropical Mushroom",
+    "price": 230.00,
+    "description": "Tropical Mushroom firecracker.",
+    "category": "Fountain",
+    "image": "/assets/tropical_mushroom.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 170
+    }
+  },
+  {
+    "id": 225,
+    "title": "Kids Carz (Silver Toy Fountain)",
+    "price": 350.00,
+    "description": "Kids Carz (Silver Toy Fountain) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/kids_carz_silver_toy_fountain.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 175
+    }
+  },
+  {
+    "id": 226,
+    "title": "Naragasura (Mega Colour Changing Crackling Fountain)",
+    "price": 340.00,
+    "description": "Naragasura (Mega Colour Changing Crackling Fountain) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/naragasura_mega_colour_changing_crackling_fountain.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 180
+    }
+  },
+  {
+    "id": 227,
+    "title": "Party Apple",
+    "price": 350.00,
+    "description": "Party Apple firecracker.",
+    "category": "Fountain",
+    "image": "/assets/party_apple.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 185
+    }
+  },
+  {
+    "id": 228,
+    "title": "Wonder La (2Pcs)",
+    "price": 150.00,
+    "description": "Wonder La (2Pcs) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/wonder_la_2pcs.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 190
+    }
+  },
+  {
+    "id": 229,
+    "title": "Cupcake (Water Fall Fountain)",
+    "price": 280.00,
+    "description": "Cupcake (Water Fall Fountain) firecracker.",
+    "category": "Fountain",
+    "image": "/assets/cupcake_water_fall_fountain.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 195
+    }
+  }
+
+  {
+    "id": 230,
+    "title": "Tirupati Spl Lattu",
+    "price": 250.00,
+    "description": "Tirupati Special Lattu firecracker.",
+    "category": "Gift Box",
+    "image": "/assets/tirupati_spl_lattu.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 10
+    }
+  },
+  {
+    "id": 231,
+    "title": "Diwali Spl Sweet Box",
+    "price": 150.00,
+    "description": "Diwali Special Sweet Box.",
+    "category": "Gift Box",
+    "image": "/assets/diwali_spl_sweet_box.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 15
+    }
+  },
+  {
+    "id": 232,
+    "title": "Gift Box 36 Items",
+    "price": 550.00,
+    "description": "Gift Box containing 36 items.",
+    "category": "Gift Box",
+    "image": "/assets/gift_box_36_items.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 20
+    }
+  },
+  {
+    "id": 233,
+    "title": "Gift Box 41 Items",
+    "price": 800.00,
+    "description": "Gift Box containing 41 items.",
+    "category": "Gift Box",
+    "image": "/assets/gift_box_41_items.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 25
+    }
+  },
+  {
+    "id": 234,
+    "title": "Gift Box 50 Items",
+    "price": 900.00,
+    "description": "Gift Box containing 50 items.",
+    "category": "Gift Box",
+    "image": "/assets/gift_box_50_items.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 30
+    }
+  },
+  {
+    "id": 235,
+    "title": "Gift Box 65 Items",
+    "price": 1250.00,
+    "description": "Gift Box containing 65 items.",
+    "category": "Gift Box",
+    "image": "/assets/gift_box_65_items.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 35
+    }
+  },
+  {
+    "id": 236,
+    "title": "Silent Crackers",
+    "price": 150.00,
+    "description": "Silent Crackers firecracker.",
+    "category": "Fountain",
+    "image": "/assets/silent_crackers.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 40
+    }
+  }
 
 
 
