@@ -1,135 +1,1546 @@
 [
   {
     "id": 1,
-    "title": "Rockets",
-    "price": 100,
-    "description": "Rockets - 10 pieces",
-    "category": "Rockets",
-    "image": "/assets/Newarrival12.webp",
+    "title": "2 3/4\" Kuruvi",
+    "price": 6.00,
+    "description": "2 3/4\" Kuruvi Crackers",
+    "category": "Single Sound Crackers",
+    "image": "/assets/kuruvi.webp",
     "rating": {
-      "rate": 4.5,
-      "count": 10
+      "rate": 4.3,
+      "count": 12
     }
   },
   {
     "id": 2,
-    "title": "Double Shots",
-    "price": 50,
-    "description": "Double Shots - 5 pieces",
-    "category": "Rockets",
-    "image": "/assets/doubleshots.webp",
+    "title": "3 1/2\" Laxmi",
+    "price": 11.00,
+    "description": "3 1/2\" Laxmi Crackers",
+    "category": " Single Sound Crackers",
+    "image": "/assets/laxmi.webp",
     "rating": {
-      "rate": 4.0,
-      "count": 20
+      "rate": 4.4,
+      "count": 10
     }
   },
   {
     "id": 3,
-    "title": "Twelve Shots",
-    "price": 300,
-    "description": "Twelve Shots - 1 box",
-    "category": "Rockets",
-    "image": "/assets/twelveshot.webp",
+    "title": "4\" Laxmi",
+    "price": 15.00,
+    "description": "4\" Laxmi Crackers",
+    "category": " Single Sound Crackers",
+    "image": "/assets/laxmi4.webp",
     "rating": {
-      "rate": 4.8,
-      "count": 15
+      "rate": 4.5,
+      "count": 8
     }
   },
   {
     "id": 4,
-    "title": "Sparklers",
-    "price": 100,
-    "description": "Sparklers - 1 box",
-    "category": "Sparklers",
-    "image": "/assets/Newarrival23.webp",
+    "title": "2 Sound Crackers",
+    "price": 30.00,
+    "description": "2 Sound Crackers",
+    "category": "Single Sound Crackers",
+    "image": "/assets/2sound.webp",
     "rating": {
-      "rate": 4.6,
-      "count": 30
+      "rate": 4.1,
+      "count": 9
     }
   },
   {
     "id": 5,
-    "title": "Flower Pot",
-    "price": 100,
-    "description": "Flower Pot - 5 pieces",
+    "title": "4\" Deluxe & Gold Laxmi",
+    "price": 35.00,
+    "description": "4\" Deluxe & Gold Laxmi Crackers",
+    "category": "Single Sound Crackers",
+    "image": "/assets/deluxelaxmi.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 7
+    }
+  },
+  {
+    "id": 6,
+    "title": "5\" Hulk",
+    "price": 35.00,
+    "description": "5\" Hulk Crackers",
+    "category": "Single Sound Crackers",
+    "image": "/assets/hulk.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 5
+    }
+  },
+  {
+    "id": 7,
+    "title": "6\" Fighter",
+    "price": 45.00,
+    "description": "6\" Fighter Crackers",
+    "category": "Single Sound Crackers",
+    "image": "/assets/fighter.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 6
+    }
+  },
+  {
+    "id": 8,
+    "title": "8' Super Lion",
+    "price": 100.00,
+    "description": "8' Super Lion Crackers",
+    "category": "Single Sound Crackers",
+    "image": "/assets/superlion.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 13
+    }
+  },
+
+  {
+    "id": 9,
+    "title": "7cm Electric Sparklers",
+    "price": 10.00,
+    "description": "7cm Electric Sparklers",
     "category": "Sparklers",
-    "image": "/assets/flowerpot.webp",
+    "image": "/assets/electricsparklers7.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 20
+    }
+  },
+  {
+    "id": 10,
+    "title": "7cm Colour Sparklers",
+    "price": 12.00,
+    "description": "7cm Colour Sparklers",
+    "category": "Sparklers",
+    "image": "/assets/coloursparklers7.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 14
+    }
+  },
+  {
+    "id": 11,
+    "title": "7cm Green Sparklers",
+    "price": 13.00,
+    "description": "7cm Green Sparklers",
+    "category": "Sparklers",
+    "image": "/assets/greensparklers7.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 18
+    }
+  },
+  {
+    "id": 12,
+    "title": "7cm Red Sparklers",
+    "price": 14.00,
+    "description": "7cm Red Sparklers",
+    "category": "Sparklers",
+    "image": "/assets/redsparklers7.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 15
+    }
+  },
+  {
+    "id": 13,
+    "title": "10cm Electric Sparklers",
+    "price": 18.00,
+    "description": "10cm Electric Sparklers",
+    "category": "Sparklers",
+    "image": "/assets/electricsparklers10.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 22
+    }
+  },
+  {
+    "id": 14,
+    "title": "10cm Colour Sparklers",
+    "price": 20.00,
+    "description": "10cm Colour Sparklers",
+    "category": "Sparklers",
+    "image": "/assets/coloursparklers10.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 17
+    }
+  },
+  {
+    "id": 15,
+    "title": "10cm Green Sparklers",
+    "price": 22.00,
+    "description": "10cm Green Sparklers",
+    "category": "Sparklers",
+    "image": "/assets/greensparklers10.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 16
+    }
+  },
+  {
+    "id": 16,
+    "title": "10cm Red Sparklers",
+    "price": 23.00,
+    "description": "10cm Red Sparklers",
+    "category": "Sparklers",
+    "image": "/assets/redsparklers10.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 19
+    }
+  },
+  {
+    "id": 17,
+    "title": "15cm Electric Sparklers",
+    "price": 40.00,
+    "description": "15cm Electric Sparklers",
+    "category": "Sparklers",
+    "image": "/assets/electricsparklers15.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 21
+    }
+  },
+  {
+    "id": 18,
+    "title": "30cm Electric Sparklers",
+    "price": 40.00,
+    "description": "30cm Electric Sparklers",
+    "category": "Sparklers",
+    "image": "/assets/electricsparklers30.webp",
+    "rating": {
+      "rate": 4.2,
+      "count": 26
+    }
+  },
+  {
+    "id": 19,
+    "title": "30cm Colour Sparklers",
+    "price": 42.00,
+    "description": "30cm Colour Sparklers",
+    "category": "Sparklers",
+    "image": "/assets/coloursparklers30.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 27
+    }
+  },
+  {
+    "id": 20,
+    "title": "15cm Colour Sparklers",
+    "price": 42.00,
+    "description": "15cm Colour Sparklers",
+    "category": "Sparklers",
+    "image": "/assets/coloursparklers15.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 23
+    }
+  },
+  {
+    "id": 21,
+    "title": "15cm Green Sparklers",
+    "price": 45.00,
+    "description": "15cm Green Sparklers",
+    "category": "Sparklers",
+    "image": "/assets/greensparklers15.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 25
+    }
+  },
+  {
+    "id": 22,
+    "title": "15cm Red Sparklers",
+    "price": 48.00,
+    "description": "15cm Red Sparklers",
+    "category": "Sparklers",
+    "image": "/assets/redsparklers15.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 24
+    }
+  },
+  {
+    "id": 23,
+    "title": "30cm Green Sparklers",
+    "price": 45.00,
+    "description": "30cm Green Sparklers",
+    "category": "Sparklers",
+    "image": "/assets/greensparklers30.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 28
+    }
+  },
+  {
+    "id": 24,
+    "title": "30cm Red Sparklers",
+    "price": 48.00,
+    "description": "30cm Red Sparklers",
+    "category": "Sparklers",
+    "image": "/assets/redsparklers30.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 29
+    }
+  },
+  {
+    "id": 25,
+    "title": "Smoke Sparkle Multi Colour",
+    "price": 75.00,
+    "description": "Smoke Sparkle Multi Colour",
+    "category": "Sparklers",
+    "image": "/assets/smokemulticolour.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 30
+    }
+  },
+  {
+    "id": 26,
+    "title": "Pink Colour Sparklers",
+    "price": 120.00,
+    "description": "Pink Colour Sparklers",
+    "category": "Sparklers",
+    "image": "/assets/pinksparklers.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 31
+    }
+  },
+  {
+    "id": 27,
+    "title": "50cm Electric Sparklers",
+    "price": 150.00,
+    "description": "50cm Electric Sparklers",
+    "category": "Sparklers",
+    "image": "/assets/electricsparklers50.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 32
+    }
+  },
+  {
+    "id": 28,
+    "title": "50cm Colour Sparklers",
+    "price": 180.00,
+    "description": "50cm Colour Sparklers",
+    "category": "Sparklers",
+    "image": "/assets/coloursparklers50.webp",
+    "rating": {
+      "rate": 5.0,
+      "count": 33
+    }
+  },
+ {
+    "id": 29,
+    "title": "Orange colour",
+    "price": 120.00,
+    "description": "Orange Colour ",
+    "category": "Sparklers",
+    "image": "/assets/pinksparklers.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 31
+    }
+  },
+  {
+    "id": 30,
+    "title": "Umbrella Sparklers",
+    "price": 200.00,
+    "description": "Umbrella Sparklers",
+    "category": "Sparklers",
+    "image": "/assets/electricsparklers50.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 32
+    }
+  },
+  {
+    "id": 31,
+    "title": "75cm Mixed Sparklers",
+    "price": 350.00,
+    "description": "75cm Mixed Sparklers",
+    "category": "Sparklers",
+    "image": "/assets/coloursparklers50.webp",
+    "rating": {
+      "rate": 5.0,
+      "count": 33
+    }
+  },
+ {
+    "id": 32,
+    "title": "11/2' Twinkling Stars",
+    "price": 22.00,
+    "description": "Twinkling Stars",
+    "category": "Twinkling Stars",
+    "image": "/assets/pinksparklers.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 31
+    }
+  },
+  {
+    "id": 33,
+    "title": "4' Twinkling Stars",
+    "price": 63.00,
+    "description": "Twinkling Stars",
+    "category": "Twinkling Stars",
+    "image": "/assets/electricsparklers50.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 32
+    }
+  },
+  {
+    "id": 34,
+    "title": "Jil Jil",
+    "price": 250.00,
+    "description": "Twinkling Stars",
+    "category": "Twinkling Stars",
+    "image": "/assets/coloursparklers50.webp",
+    "rating": {
+      "rate": 5.0,
+      "count": 33
+    }
+  },
+  {
+    "id": 35,
+    "title": "7'Pencil",
+    "price": 25.00,
+    "description": "Pencil",
+    "category": "Pencil",
+    "image": "/assets/coloursparklers50.webp",
+    "rating": {
+      "rate": 5.0,
+      "count": 33
+    }
+  },
+ {
+    "id": 36,
+    "title": "10'Pencil",
+    "price": 40.00,
+    "description": "Pencil",
+    "category": "Pencil",
+    "image": "/assets/pinksparklers.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 31
+    }
+  },
+  {
+    "id": 37,
+    "title": "12'Pencil",
+    "price": 60.00,
+    "description": "Pencil",
+    "category": "Pencil",
+    "image": "/assets/electricsparklers50.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 32
+    }
+  },
+  {
+    "id": 38,
+    "title": "15'Pencil",
+    "price": 70.00,
+    "description": "Pencil",
+    "category": "Pencil",
+    "image": "/assets/coloursparklers50.webp",
+    "rating": {
+      "rate": 5.0,
+      "count": 33
+    }
+  },
+
+  {
+    "id": 39,
+    "title": "Ground Chakkar Big (10 Pcs)",
+    "price": 30.00,
+    "description": "Ground Chakkar Big - 10 pieces",
+    "category": "Chakkars",
+    "image": "/assets/groundchakkar_big_10pcs.webp",
+    "rating": {
+      "rate": 4.2,
+      "count": 50
+    }
+  },
+  {
+    "id": 40,
+    "title": "Ground Chakkar Spl",
+    "price": 65.00,
+    "description": "Ground Chakkar Special",
+    "category": "Chakkars",
+    "image": "/assets/groundchakkar_spl.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 45
+    }
+  },
+  {
+    "id": 41,
+    "title": "Ground Chakkar Big (25 Pcs)",
+    "price": 70.00,
+    "description": "Ground Chakkar Big - 25 pieces",
+    "category": "Chakkars",
+    "image": "/assets/groundchakkar_big_25pcs.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 40
+    }
+  },
+  {
+    "id": 42,
+    "title": "Ground Chakkar Deluxe",
+    "price": 110.00,
+    "description": "Ground Chakkar Deluxe",
+    "category": "Chakkars",
+    "image": "/assets/groundchakkar_deluxe.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 35
+    }
+  },
+  {
+    "id": 43,
+    "title": "Disco Wheel",
+    "price": 100.00,
+    "description": "Disco Wheel",
+    "category": "Chakkars",
+    "image": "/assets/discowheel.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 30
+    }
+  },
+  {
+    "id": 44,
+    "title": "Whistle Chakkar",
+    "price": 100.00,
+    "description": "Whistle Chakkar",
+    "category": "Chakkars",
+    "image": "/assets/whistlechakkar.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 28
+    }
+  },
+  {
+    "id": 45,
+    "title": "Ranga Chakkar (Vadivel)",
+    "price": 120.00,
+    "description": "Ranga Chakkar (Vadivel)",
+    "category": "Chakkars",
+    "image": "/assets/rangachakkar_vadivel.webp",
     "rating": {
       "rate": 4.7,
       "count": 25
     }
   },
   {
-    "id": 6,
-    "title": "Spinner",
-    "price": 100,
-    "description": "Spinner - 1 box",
-    "category": "Sparklers",
-    "image": "/assets/Newarrival21.webp",
+    "id": 46,
+    "title": "4X4 Wheel (5pcs)",
+    "price": 140.00,
+    "description": "4X4 Wheel - 5 pieces",
+    "category": "Chakkars",
+    "image": "/assets/4x4wheel_5pcs.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 22
+    }
+  },
+  {
+    "id": 47,
+    "title": "Spinner (Spl)",
+    "price": 140.00,
+    "description": "Spinner Special",
+    "category": "Chakkars",
+    "image": "/assets/spinner_spl.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 20
+    }
+  },
+  {
+    "id": 48,
+    "title": "Spinner (Deluxe)",
+    "price": 160.00,
+    "description": "Spinner Deluxe",
+    "category": "Chakkars",
+    "image": "/assets/spinner_deluxe.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 18
+    }
+  },
+  {
+    "id": 49,
+    "title": "Wire Chakkar",
+    "price": 160.00,
+    "description": "Wire Chakkar",
+    "category": "Chakkars",
+    "image": "/assets/wirechakkar.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 15
+    }
+  },
+  {
+    "id": 50,
+    "title": "Violet & Orange Chakkar",
+    "price": 250.00,
+    "description": "Violet & Orange Chakkar",
+    "category": "Chakkars",
+    "image": "/assets/violet_orange_chakkar.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 10
+    }
+  },
+  {
+    "id": 51,
+    "title": "Planet Wheel (2Pcs)",
+    "price": 400.00,
+    "description": "Planet Wheel - 2 pieces",
+    "category": "Chakkars",
+    "image": "/assets/planetwheel_2pcs.webp",
+    "rating": {
+      "rate": 5.0,
+      "count": 8
+    }
+  }
+
+  {
+    "id": 52,
+    "title": "Flower Pots Small",
+    "price": 45.00,
+    "description": "Small-sized Flower Pots",
+    "category": "Flower Pots",
+    "image": "/assets/flowerpots_small.webp",
+    "rating": {
+      "rate": 4.1,
+      "count": 60
+    }
+  },
+  {
+    "id": 53,
+    "title": "Flower Pots Big",
+    "price": 55.00,
+    "description": "Big-sized Flower Pots",
+    "category": "Flower Pots",
+    "image": "/assets/flowerpots_big.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 55
+    }
+  },
+  {
+    "id": 54,
+    "title": "Flower Pots Special",
+    "price": 75.00,
+    "description": "Special Flower Pots",
+    "category": "Flower Pots",
+    "image": "/assets/flowerpots_special.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 50
+    }
+  },
+  {
+    "id": 55,
+    "title": "Flower Pots Asoka",
+    "price": 100.00,
+    "description": "Asoka Flower Pots",
+    "category": "Flower Pots",
+    "image": "/assets/flowerpots_asoka.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 45
+    }
+  },
+  {
+    "id": 56,
+    "title": "Ganga Jamuna",
+    "price": 110.00,
+    "description": "Ganga Jamuna Flower Pots",
+    "category": "Flower Pots",
+    "image": "/assets/ganga_jamuna.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 40
+    }
+  },
+  {
+    "id": 57,
+    "title": "Mini Sairen (5Pcs)",
+    "price": 170.00,
+    "description": "Mini Sairen Flower Pots - 5 pieces",
+    "category": "Flower Pots",
+    "image": "/assets/mini_sairen_5pcs.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 35
+    }
+  },
+  {
+    "id": 58,
+    "title": "Sairen Flower Pots (3Pcs)",
+    "price": 220.00,
+    "description": "Sairen Flower Pots - 3 pieces",
+    "category": "Flower Pots",
+    "image": "/assets/sairen_flowerpots_3pcs.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 30
+    }
+  },
+  {
+    "id": 59,
+    "title": "Lavender Flower Pots",
+    "price": 250.00,
+    "description": "Lavender Flower Pots",
+    "category": "Flower Pots",
+    "image": "/assets/lavender_flowerpots.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 25
+    }
+  },
+  {
+    "id": 60,
+    "title": "Monster Flower Pots",
+    "price": 500.00,
+    "description": "Monster Flower Pots",
+    "category": "Flower Pots",
+    "image": "/assets/monster_flowerpots.webp",
+    "rating": {
+      "rate": 5.0,
+      "count": 20
+    }
+  }
+ {
+    "id": 61,
+    "title": "Red flag",
+    "price": 18.00,
+    "description": "Red Bijili",
+    "category": "Red Bijili",
+    "image": "/assets/monster_flowerpots.webp",
+    "rating": {
+      "rate": 5.0,
+      "count": 20
+    }
+  }
+
+  {
+    "id": 62,
+    "title": "Stripped Bijili (50 Pcs)",
+    "price": 20.00,
+    "description": "50 pieces of Stripped Bijili crackers",
+    "category": "Crackers",
+    "image": "/assets/stripped_bijili_50pcs.webp",
+    "rating": {
+      "rate": 4.2,
+      "count": 30
+    }
+  },
+  {
+    "id": 63,
+    "title": "Snake Tablets (Small)",
+    "price": 25.00,
+    "description": "Small-sized Snake Tablets",
+    "category": "Crackers",
+    "image": "/assets/snake_tablets_small.webp",
+    "rating": {
+      "rate": 4.0,
+      "count": 25
+    }
+  },
+  {
+    "id": 64,
+    "title": "Chit Put",
+    "price": 30.00,
+    "description": "Chit Put crackers",
+    "category": "Crackers",
+    "image": "/assets/chit_put.webp",
+    "rating": {
+      "rate": 4.1,
+      "count": 28
+    }
+  },
+  {
+    "id": 65,
+    "title": "Cartoon (10 Pcs)",
+    "price": 35.00,
+    "description": "Cartoon crackers - 10 pieces",
+    "category": "Crackers",
+    "image": "/assets/cartoon_10pcs.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 32
+    }
+  },
+  {
+    "id": 66,
+    "title": "Red Bijili (100 Pcs)",
+    "price": 35.00,
+    "description": "100 pieces of Red Bijili crackers",
+    "category": "Crackers",
+    "image": "/assets/red_bijili_100pcs.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 40
+    }
+  },
+  {
+    "id": 67,
+    "title": "Snake Cartoon (10pcs)",
+    "price": 40.00,
+    "description": "Snake Cartoon crackers - 10 pieces",
+    "category": "Crackers",
+    "image": "/assets/snake_cartoon_10pcs.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 38
+    }
+  },
+  {
+    "id": 68,
+    "title": "Stripped Bijili (100 Pcs)",
+    "price": 40.00,
+    "description": "100 pieces of Stripped Bijili crackers",
+    "category": "Crackers",
+    "image": "/assets/stripped_bijili_100pcs.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 42
+    }
+  },
+  {
+    "id": 69,
+    "title": "Samoza Crackers (10Pcs)",
+    "price": 50.00,
+    "description": "Samoza Crackers - 10 pieces",
+    "category": "Crackers",
+    "image": "/assets/samoza_crackers_10pcs.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 45
+    }
+  },
+  {
+    "id": 70,
+    "title": "Gee Boom Baa",
+    "price": 50.00,
+    "description": "Gee Boom Baa crackers",
+    "category": "Crackers",
+    "image": "/assets/gee_boom_baa.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 50
+    }
+  },
+  {
+    "id": 71,
+    "title": "Roll Cap",
+    "price": 70.00,
+    "description": "Roll Cap crackers",
+    "category": "Crackers",
+    "image": "/assets/roll_cap.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 52
+    }
+  },
+  {
+    "id": 72,
+    "title": "Anagonda Tablets",
+    "price": 80.00,
+    "description": "Anagonda Tablets",
+    "category": "Crackers",
+    "image": "/assets/anagonda_tablets.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 55
+    }
+  }
+
+  {
+    "id": 73,
+    "title": "Colour Matches Small (5Box)",
+    "price": 150.00,
+    "description": "Pack of 5 boxes of small Colour Matches.",
+    "category": "Crackers",
+    "image": "/assets/colour_matches_small_5box.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 35
+    }
+  },
+  {
+    "id": 74,
+    "title": "Lion Giant Laptop",
+    "price": 300.00,
+    "description": "Lion Giant Laptop cracker.",
+    "category": "Crackers",
+    "image": "/assets/lion_giant_laptop.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 40
+    }
+  },
+  {
+    "id": 75,
+    "title": "Laptop",
+    "price": 350.00,
+    "description": "Standard Laptop cracker.",
+    "category": "Crackers",
+    "image": "/assets/laptop_cracker.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 45
+    }
+  }
+
+  {
+    "id": 76,
+    "title": "Butterfly",
+    "price": 80.00,
+    "description": "Butterfly cracker.",
+    "category": "Crackers",
+    "image": "/assets/butterfly.webp",
+    "rating": {
+      "rate": 4.2,
+      "count": 30
+    }
+  },
+  {
+    "id": 77,
+    "title": "Selfie Stick (5 Pcs)",
+    "price": 100.00,
+    "description": "Pack of 5 Selfie Stick crackers.",
+    "category": "Crackers",
+    "image": "/assets/selfie_stick_5pcs.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 28
+    }
+  },
+  {
+    "id": 78,
+    "title": "Helicopter",
+    "price": 150.00,
+    "description": "Helicopter cracker.",
+    "category": "Crackers",
+    "image": "/assets/helicopter.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 35
+    }
+  },
+  {
+    "id": 79,
+    "title": "Selfie Sticke (5 Pcs)",
+    "price": 150.00,
+    "description": "Pack of 5 Selfie Sticke crackers.",
+    "category": "Crackers",
+    "image": "/assets/selfie_sticke_5pcs.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 32
+    }
+  },
+  {
+    "id": 80,
+    "title": "Drone",
+    "price": 200.00,
+    "description": "Drone cracker.",
+    "category": "Crackers",
+    "image": "/assets/drone.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 40
+    }
+  },
+  {
+    "id": 81,
+    "title": "Damal Dumal (20 Pcs)",
+    "price": 200.00,
+    "description": "Pack of 20 Damal Dumal crackers.",
+    "category": "Crackers",
+    "image": "/assets/damal_dumal_20pcs.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 45
+    }
+  },
+  {
+    "id": 82,
+    "title": "2K Special (2 Pcs)",
+    "price": 200.00,
+    "description": "Pack of 2 pieces of 2K Special crackers.",
+    "category": "Crackers",
+    "image": "/assets/2k_special_2pcs.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 50
+    }
+  },
+  {
+    "id": 83,
+    "title": "Lolly Pop",
+    "price": 250.00,
+    "description": "Lolly Pop cracker.",
+    "category": "Crackers",
+    "image": "/assets/lolly_pop.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 55
+    }
+  }
+
+  {
+    "id": 84,
+    "title": "Bullet Bomb (Mini)",
+    "price": 30.00,
+    "description": "Mini Bullet Bomb cracker.",
+    "category": "Bombs",
+    "image": "/assets/bullet_bomb_mini.webp",
+    "rating": {
+      "rate": 4.2,
+      "count": 25
+    }
+  },
+  {
+    "id": 85,
+    "title": "1/4\" Paper Bomb",
+    "price": 50.00,
+    "description": "1/4\" Paper Bomb cracker.",
+    "category": "Bombs",
+    "image": "/assets/1_4_paper_bomb.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 30
+    }
+  },
+  {
+    "id": 86,
+    "title": "Classic Bomb Green",
+    "price": 75.00,
+    "description": "Classic Green Bomb cracker.",
+    "category": "Bombs",
+    "image": "/assets/classic_bomb_green.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 35
+    }
+  },
+  {
+    "id": 87,
+    "title": "1/2\" Paper Bomb",
+    "price": 100.00,
+    "description": "1/2\" Paper Bomb cracker.",
+    "category": "Bombs",
+    "image": "/assets/1_2_paper_bomb.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 40
+    }
+  },
+  {
+    "id": 88,
+    "title": "555 Bomb (5 Pcs)",
+    "price": 100.00,
+    "description": "Pack of 5 555 Bomb crackers.",
+    "category": "Bombs",
+    "image": "/assets/555_bomb_5pcs.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 45
+    }
+  },
+  {
+    "id": 89,
+    "title": "Colour Paper Bomb",
+    "price": 100.00,
+    "description": "Colour Paper Bomb cracker.",
+    "category": "Bombs",
+    "image": "/assets/colour_paper_bomb.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 50
+    }
+  },
+  {
+    "id": 90,
+    "title": "AK.37 Bomb",
+    "price": 100.00,
+    "description": "AK.37 Bomb cracker.",
+    "category": "Bombs",
+    "image": "/assets/ak37_bomb.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 55
+    }
+  },
+  {
+    "id": 91,
+    "title": "Old Is Gold (25 Pcs)",
+    "price": 120.00,
+    "description": "Pack of 25 Old Is Gold Bomb crackers.",
+    "category": "Bombs",
+    "image": "/assets/old_is_gold_25pcs.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 60
+    }
+  },
+  {
+    "id": 92,
+    "title": "AK.47 Bomb",
+    "price": 150.00,
+    "description": "AK.47 Bomb cracker.",
+    "category": "Bombs",
+    "image": "/assets/ak47_bomb.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 65
+    }
+  },
+  {
+    "id": 93,
+    "title": "1\" Paper Bomb",
+    "price": 200.00,
+    "description": "1\" Paper Bomb cracker.",
+    "category": "Bombs",
+    "image": "/assets/1_inch_paper_bomb.webp",
+    "rating": {
+      "rate": 5.0,
+      "count": 70
+    }
+  },
+  {
+    "id": 94,
+    "title": "Digital Bomb",
+    "price": 200.00,
+    "description": "Digital Bomb cracker.",
+    "category": "Bombs",
+    "image": "/assets/digital_bomb.webp",
+    "rating": {
+      "rate": 5.0,
+      "count": 75
+    }
+  },
+  {
+    "id": 95,
+    "title": "Money in the Bank",
+    "price": 400.00,
+    "description": "Money in the Bank cracker.",
+    "category": "Bombs",
+    "image": "/assets/money_in_the_bank.webp",
+    "rating": {
+      "rate": 5.0,
+      "count": 80
+    }
+  }
+
+  {
+    "id": 96,
+    "title": "Baby Rockets",
+    "price": 40.00,
+    "description": "Pack of Baby Rockets crackers.",
+    "category": "Rockets",
+    "image": "/assets/baby_rockets.webp",
+    "rating": {
+      "rate": 4.2,
+      "count": 15
+    }
+  },
+  {
+    "id": 97,
+    "title": "Rocket Bomb",
+    "price": 150.00,
+    "description": "Rocket Bomb cracker.",
+    "category": "Rockets",
+    "image": "/assets/rocket_bomb.webp",
     "rating": {
       "rate": 4.5,
       "count": 20
     }
   },
   {
-    "id": 7,
-    "title": "Family Pack",
-    "price": 1000,
-    "description": "Family Pack - 1 box",
-    "category": "Gift pack",
-    "image": "/assets/Newarrival16.webp",
+    "id": 98,
+    "title": "Lunik Express",
+    "price": 180.00,
+    "description": "Lunik Express cracker.",
+    "category": "Rockets",
+    "image": "/assets/lunik_express.webp",
     "rating": {
-      "rate": 4.9,
-      "count": 5
+      "rate": 4.6,
+      "count": 25
     }
   },
   {
-    "id": 8,
-    "title": "Gift Pack 1",
-    "price": 500,
-    "description": "Gift Pack 1 - 1 box",
-    "category": "Gift pack",
-    "image": "/assets/Newarrival18.webp",
+    "id": 99,
+    "title": "2\" Sound Rocket",
+    "price": 200.00,
+    "description": "2\" Sound Rocket cracker.",
+    "category": "Rockets",
+    "image": "/assets/2inch_sound_rocket.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 30
+    }
+  },
+  {
+    "id": 100,
+    "title": "3\" Sound Rocket",
+    "price": 200.00,
+    "description": "3\" Sound Rocket cracker.",
+    "category": "Rockets",
+    "image": "/assets/3inch_sound_rocket.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 35
+    }
+  },
+  {
+    "id": 101,
+    "title": "Whistle Rocket",
+    "price": 200.00,
+    "description": "Whistle Rocket cracker.",
+    "category": "Rockets",
+    "image": "/assets/whistle_rocket.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 40
+    }
+  }
+  {
+    "id": 102,
+    "title": "28 Chorsa Crackers",
+    "price": 20.00,
+    "description": "Pack of 28 Chorsa Crackers.",
+    "category": "Crackers",
+    "image": "/assets/28_chorsa_crackers.webp",
+    "rating": {
+      "rate": 4.1,
+      "count": 12
+    }
+  },
+  {
+    "id": 103,
+    "title": "28 Giant Crackers",
+    "price": 25.00,
+    "description": "Pack of 28 Giant Crackers.",
+    "category": "Crackers",
+    "image": "/assets/28_giant_crackers.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 15
+    }
+  },
+  {
+    "id": 104,
+    "title": "24 Deluxe Crackers",
+    "price": 45.00,
+    "description": "Pack of 24 Deluxe Crackers.",
+    "category": "Crackers",
+    "image": "/assets/24_deluxe_crackers.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 18
+    }
+  },
+  {
+    "id": 105,
+    "title": "56 Giant Crackers",
+    "price": 50.00,
+    "description": "Pack of 56 Giant Crackers.",
+    "category": "Crackers",
+    "image": "/assets/56_giant_crackers.webp",
     "rating": {
       "rate": 4.6,
+      "count": 20
+    }
+  },
+  {
+    "id": 106,
+    "title": "50 Deluxe Crackers",
+    "price": 100.00,
+    "description": "Pack of 50 Deluxe Crackers.",
+    "category": "Crackers",
+    "image": "/assets/50_deluxe_crackers.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 25
+    }
+  },
+  {
+    "id": 107,
+    "title": "90 Watts Crackers",
+    "price": 180.00,
+    "description": "Pack of 90 Watts Crackers.",
+    "category": "Crackers",
+    "image": "/assets/90_watts_crackers.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 30
+    }
+  },
+  {
+    "id": 108,
+    "title": "100 Deluxe Crackers",
+    "price": 200.00,
+    "description": "Pack of 100 Deluxe Crackers.",
+    "category": "Crackers",
+    "image": "/assets/100_deluxe_crackers.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 35
+    }
+  }
+
+  {
+    "id": 108,
+    "title": "100 Garland",
+    "price": 40.00,
+    "description": "Pack of 100 Garland crackers.",
+    "category": "Garlands",
+    "image": "/assets/100_garland.webp",
+    "rating": {
+      "rate": 4.0,
       "count": 10
     }
   },
   {
-    "id": 9,
-    "title": "Bijili",
-    "price": 100,
-    "description": "Bijili - 1 packet",
-    "category": "Bombs",
-    "image": "/assets/bijili.webp",
+    "id": 109,
+    "title": "200 Garland",
+    "price": 80.00,
+    "description": "Pack of 200 Garland crackers.",
+    "category": "Garlands",
+    "image": "/assets/200_garland.webp",
+    "rating": {
+      "rate": 4.1,
+      "count": 15
+    }
+  },
+  {
+    "id": 110,
+    "title": "600 Garland",
+    "price": 140.00,
+    "description": "Pack of 600 Garland crackers.",
+    "category": "Garlands",
+    "image": "/assets/600_garland.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 20
+    }
+  },
+  {
+    "id": 111,
+    "title": "1000 Garland",
+    "price": 200.00,
+    "description": "Pack of 1000 Garland crackers.",
+    "category": "Garlands",
+    "image": "/assets/1000_garland.webp",
     "rating": {
       "rate": 4.4,
       "count": 25
     }
   },
   {
-    "id": 10,
-    "title": "Saravedi",
-    "price": 200,
-    "description": "Saravedi - 100 wala",
-    "category": "Bombs",
-    "image": "/assets/Newarrival17.webp",
+    "id": 112,
+    "title": "Digital Wala",
+    "price": 250.00,
+    "description": "Digital Wala cracker.",
+    "category": "Garlands",
+    "image": "/assets/digital_wala.webp",
     "rating": {
       "rate": 4.5,
+      "count": 30
+    }
+  },
+  {
+    "id": 113,
+    "title": "Smoke Wala",
+    "price": 350.00,
+    "description": "Smoke Wala cracker.",
+    "category": "Garlands",
+    "image": "/assets/smoke_wala.webp",
+    "rating": {
+      "rate": 4.6,
+      "count": 35
+    }
+  },
+  {
+    "id": 114,
+    "title": "2000 Garland",
+    "price": 400.00,
+    "description": "Pack of 2000 Garland crackers.",
+    "category": "Garlands",
+    "image": "/assets/2000_garland.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 40
+    }
+  },
+  {
+    "id": 115,
+    "title": "5000 Garland",
+    "price": 1000.00,
+    "description": "Pack of 5000 Garland crackers.",
+    "category": "Garlands",
+    "image": "/assets/5000_garland.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 45
+    }
+  },
+  {
+    "id": 116,
+    "title": "10000 Garland",
+    "price": 2000.00,
+    "description": "Pack of 10000 Garland crackers.",
+    "category": "Garlands",
+    "image": "/assets/10000_garland.webp",
+    "rating": {
+      "rate": 4.9,
+      "count": 50
+    }
+  }
+
+  {
+    "id": 117,
+    "title": "Smoke (3 Pcs)",
+    "price": 220.00,
+    "description": "Pack of 3 Smoke crackers.",
+    "category": "Smokes",
+    "image": "/assets/smoke_3pcs.webp",
+    "rating": {
+      "rate": 4.2,
+      "count": 12
+    }
+  },
+  {
+    "id": 118,
+    "title": "Colour Smoke (3 Pcs)",
+    "price": 180.00,
+    "description": "Pack of 3 Colour Smoke crackers.",
+    "category": "Smokes",
+    "image": "/assets/colour_smoke_3pcs.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 15
+    }
+  },
+  {
+    "id": 119,
+    "title": "Smoke Gun (5 Pcs)",
+    "price": 240.00,
+    "description": "Pack of 5 Smoke Guns.",
+    "category": "Smokes",
+    "image": "/assets/smoke_gun_5pcs.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 18
+    }
+  }
+
+  {
+    "id": 120,
+    "title": "Chocolate (1 Pcs)",
+    "price": 60.00,
+    "description": "Pack of 1 Chocolate cracker.",
+    "category": "Miscellaneous",
+    "image": "/assets/chocolate_1pcs.webp",
+    "rating": {
+      "rate": 4.1,
+      "count": 10
+    }
+  },
+  {
+    "id": 121,
+    "title": "Mini Bat",
+    "price": 150.00,
+    "description": "Mini Bat cracker.",
+    "category": "Miscellaneous",
+    "image": "/assets/mini_bat.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 12
+    }
+  },
+  {
+    "id": 122,
+    "title": "Top Gun (5 Pcs)",
+    "price": 220.00,
+    "description": "Pack of 5 Top Gun crackers.",
+    "category": "Miscellaneous",
+    "image": "/assets/top_gun_5pcs.webp",
+    "rating": {
+      "rate": 4.4,
+      "count": 15
+    }
+  },
+  {
+    "id": 123,
+    "title": "Big Bat & Ball",
+    "price": 250.00,
+    "description": "Big Bat and Ball cracker set.",
+    "category": "Miscellaneous",
+    "image": "/assets/big_bat_ball.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 18
+    }
+  },
+  {
+    "id": 124,
+    "title": "AK-47 Gun",
+    "price": 250.00,
+    "description": "AK-47 Gun cracker.",
+    "category": "Miscellaneous",
+    "image": "/assets/ak47_gun.webp",
+    "rating": {
+      "rate": 4.6,
       "count": 20
     }
   },
   {
-    "id": 11,
-    "title": "Atom Bomb",
-    "price": 100,
-    "description": "Atom Bomb - 5 pieces",
-    "category": "Bombs",
-    "image": "/assets/Newarrival20.webp",
+    "id": 125,
+    "title": "Hammer (2 Pcs)",
+    "price": 300.00,
+    "description": "Pack of 2 Hammer crackers.",
+    "category": "Miscellaneous",
+    "image": "/assets/hammer_2pcs.webp",
     "rating": {
-      "rate": 4.6,
-      "count": 15
+      "rate": 4.7,
+      "count": 25
+    }
+  },
+  {
+    "id": 126,
+    "title": "Sword (2 Pcs)",
+    "price": 300.00,
+    "description": "Pack of 2 Sword crackers.",
+    "category": "Miscellaneous",
+    "image": "/assets/sword_2pcs.webp",
+    "rating": {
+      "rate": 4.8,
+      "count": 30
     }
   }
-]
+
+
+
+
+
+
+  
+
+
 
